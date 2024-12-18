@@ -1,13 +1,4 @@
-# Bidita's Portfolio
-Welcome to my GitHub Pages Portfolio! I’m Bidita, an Economics-Mathematics major at Whitman College, expected to graduate in May 2025.
-
-## About Me
-I'm passionate about data analysis and financial consulting. This is my [Linkedin](https://www.linkedin.com/in/biditanawar/)
-
-## Skills
-- Programming: Python, R
-- Data Visualization: Tableau, Power BI, ggplot2, Matplotlib
-
+### Data Science Final Project 
 # Political Market Volatility 
 
 ## Market Movements and Election Day: Analyzing Stock Price Volatility in the U.S. Presidential Election Days
